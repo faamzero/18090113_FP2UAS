@@ -19,15 +19,15 @@
     <div class="container mt-3">
 
     <div class="form-group">
-      <label for="exampleInputEmail1" class="font-weight-bold">No Surat</label>
+      <label for="exampleInputEmail1" class="font-weight-bold">No Nip</label>
       <input type="text" name="nip" class="form-control" value="{{$buku->nip}}" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukkan No nip">
     </div>
     <div class="form-group">
-      <label for="exampleInputPassword1" class="font-weight-bold">Penerbit</label>
+      <label for="exampleInputPassword1" class="font-weight-bold">nama_pegawai</label>
       <input type="text" name="nama_pegawai" class="form-control" value="{{$buku->nama_pegawai}}" id="exampleInputPassword1" placeholder="Masukkan nama pegawai">
     </div>
     <div class="form-group">
-        <label for="exampleInputPassword1" class="font-weight-bold">Penulis</label>
+        <label for="exampleInputPassword1" class="font-weight-bold">alamat</label>
         <input type="text" name="alamat" class="form-control" value="{{$buku->alamat}}" id="exampleInputPassword1" placeholder="Masukkan alamat">
       </div>
       <div class="form-group">
