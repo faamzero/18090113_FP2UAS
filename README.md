@@ -1,9 +1,24 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
-#### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
+# [Aplikasi Perekaman Data Pegawai](http://uaspegawai.herokuapp.com//) klik
+# [Desain Diagram dan penjelasan](https://drive.google.com/file/d/1rTIZTD9eJ-X17Paw1S_aC0QOp0ZNbAHD/view?usp=sharing) klik
+# By
+- Nama  : Fakhrul Anam
+- NIM   : 18090113
 - Kelas : 6B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
