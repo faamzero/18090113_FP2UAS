@@ -1,5 +1,6 @@
-# [Aplikasi Perekaman Data Pegawai](http://uaspegawai.herokuapp.com//) klik
-# [Desain Diagram dan penjelasan](https://drive.google.com/file/d/1rTIZTD9eJ-X17Paw1S_aC0QOp0ZNbAHD/view?usp=sharing) klik
+# [Aplikasi Perekaman Data Pegawai](http://uaspegawai.herokuapp.com//) 
+# [Desain Diagram dan penjelasan](https://drive.google.com/file/d/1rTIZTD9eJ-X17Paw1S_aC0QOp0ZNbAHD/view?usp=sharing) 
+
 # By
 - Nama  : Fakhrul Anam
 - NIM   : 18090113
