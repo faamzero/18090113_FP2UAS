@@ -1,4 +1,6 @@
 # [Aplikasi Perekaman Data Pegawai](http://uaspegawai.herokuapp.com//) 
+  email : fakhrul17@gmail.com 
+  password : anam12345
 # [Desain Diagram dan penjelasan](https://drive.google.com/file/d/1rTIZTD9eJ-X17Paw1S_aC0QOp0ZNbAHD/view?usp=sharing) 
 
 # Identitas
