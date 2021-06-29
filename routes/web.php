@@ -19,11 +19,11 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/','BukuController@index')->name('buku.index');
-Route::get('/buku/create','BukuController@create')->name('buku.create');
-Route::post('/buku/store','BukuController@store')->name('buku.store');
-Route::delete('/buku/{id}','BukuController@destroy')->name('buku.destroy');
-Route::get('/buku/{id}/edit','BukuController@edit')->name('buku.edit');
-Route::put('/buku/{id}','BukuController@update')->name('buku.update');
+Route::get('/pegawai/create','BukuController@create')->name('buku.create');
+Route::post('/pegawai/store','BukuController@store')->name('buku.store');
+Route::delete('/pegawai/{id}','BukuController@destroy')->name('buku.destroy');
+Route::get('/pegawai/{id}/edit','BukuController@edit')->name('buku.edit');
+Route::put('/pegawai/{id}','BukuController@update')->name('buku.update');
 Route::get('/cetak','BukuController@cetak')->name('buku.cetak');
 
 
